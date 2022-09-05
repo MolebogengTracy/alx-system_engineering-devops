@@ -1,0 +1,2 @@
+#!/bin/bash
+Find -mindeph 1 -type d |wc -i
